@@ -14,4 +14,5 @@ for (let index = 0; index < sentence.length; index++) {
     
 }
 
-console.log(match); 
+console.log( `${count} match(s) found  ` )
+console.log(match);
